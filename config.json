@@ -1,0 +1,9 @@
+{
+    "default_pos": "NOUN",
+    "output_file": "output.md",
+    "spacy_model": "en_core_web_sm",
+    "error_handling":{
+        "strict_mode": false,
+        "log_warnings": true
+    }
+}
